@@ -1,21 +1,14 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
-  "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
-  ],
-  "posts_per_page": 5,
+  "instagram_account": "gardahadi",
+  "site_title": "Gardahadi's Website",
   "twitter_account": "@gardasthoughts",
-  "github_account": "gardahadi",
+  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
+  "site_keywords": [
+    "Product Management",
+    "Data Science"
+  ],
+  "site_description": "Website built by Gardahadi to document personal journey and experiences",
   "linkedin_account": "gardahadi",
-  "instagram_account": "gardahadi"
+  "github_account": "gardahadi",
+  "posts_per_page": 5
 }
